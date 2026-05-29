@@ -124,7 +124,7 @@
 
 ---
 
-### [Lab 11 — Building Web Applications with Flask](https://github.com/centaurids-hub/Lab11_Web_Applications_with_Flask)
+### [Lab 11 — Building Web Applications with Flask](https://github.com/centaurids-hub/Lab11_Web_Applications_With_Flask)
 
 > Introduction to web application development using the Flask framework in Python. Covers project setup with virtual environments, routing and URL handling, Jinja2 templating with template inheritance, static file management (CSS and images), form creation and validation using Flask-WTF, database management using Flask-SQLAlchemy, user authentication with password hashing and Flask-Login, session management, flash messages, and error handling.
 
